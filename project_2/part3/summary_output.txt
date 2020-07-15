@@ -1,0 +1,7 @@
+------------ SUMMARY OF DAY ------------
+The maximum temperature was 21.1°C and occurred at 13:55:00.
+The minimum temperature was 16.1°C and occurred at 23:55:00.
+The total amount of precipitation over the 24 hours was 1.0mm.
+Precipitation was recorded for a total of 2 out of 24 hours.
+There were 10 hours of daylight in the last 24 hours.
+The maximum UV index was 3 and occurred at 15:55:00.
